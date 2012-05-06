@@ -1,4 +1,5 @@
 #include <Ogre.h>
+#include <OIS/OIS.h>
 #include "Application.h"
 
 #if OGRE_PLATFORM == PLATFORM_WIN32 || OGRE_PLATFORM == OGRE_PLATFORM_WIN32

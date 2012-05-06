@@ -47,7 +47,10 @@
 			<Add directory="C:\OgreSDK_mingw_v1-7-2\boost_1_44\lib" />
 			<Add directory="C:\OgreSDK_mingw_v1-7-2\lib\$(TARGET_NAME)" />
 		</Linker>
+		<Unit filename="src\Application.cpp" />
 		<Unit filename="src\Application.h" />
+		<Unit filename="src\InputListener.cpp" />
+		<Unit filename="src\InputListener.h" />
 		<Unit filename="src\main.cpp" />
 		<Extensions>
 			<code_completion />

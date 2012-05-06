@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1336211440 source:c:\documents and settings\administrateur\bureau\project\game-windows\src\main.cpp
+1336244078 source:c:\documents and settings\administrateur\bureau\project\game-windows\src\main.cpp
 	<Ogre.h>
+	<OIS/OIS.h>
 	"Application.h"
 	"windows.h"
 
@@ -4834,8 +4835,9 @@
 	"OgrePrerequisites.h"
 	"OgreShadowCameraSetupLiSPSM.h"
 
-1336211382 c:\documents and settings\administrateur\bureau\project\game-windows\src\application.h
+1336218600 c:\documents and settings\administrateur\bureau\project\game-windows\src\application.h
 	"ExampleApplication.h"
+	"InputListener.h"
 
 1289143426 c:\ogresdk_mingw_v1-7-2\include\ogre\exampleapplication.h
 	"Ogre.h"
@@ -4927,4 +4929,13 @@
 	"OgreD3D11Plugin.h"
 	"OgrePCZPlugin.h"
 	"OgreOctreeZonePlugin.h"
+
+1336311870 source:c:\documents and settings\administrateur\bureau\project\game-windows\src\application.cpp
+	"Application.h"
+
+1336311904 c:\documents and settings\administrateur\bureau\project\game-windows\src\inputlistener.h
+	"ExampleFrameListener.h"
+
+1336225691 source:c:\documents and settings\administrateur\bureau\project\game-windows\src\inputlistener.cpp
+	"InputListener.h"
 
